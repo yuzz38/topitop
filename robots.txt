@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /source/
+Disallow: /.impeccable/
+Disallow: /.taste-skill/
+Disallow: /PRODUCT.md
+Disallow: /DESIGN.md
+Disallow: /readme.md
+Disallow: /SEO-GEO.md
+
+Sitemap: https://topitop.example/sitemap.xml

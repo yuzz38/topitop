@@ -1,0 +1,182 @@
+{
+  "preparations": [
+    {
+      "date": "2026-11-10",
+      "operation": "Local asset preparation; no image generation",
+      "videos": {
+        "settings": "Full duration and frame; 540x960 Lanczos; H.264 Main level 3.1, yuv420p, CRF 23; AAC 96k when source audio exists; MP4 faststart; no padding or trimming",
+        "files": [
+          {
+            "path": "assets/video/video-1.mp4",
+            "source": "SaveClip.App_AQPlfevUx6S41jhQ-GANKM4FnTsVGi5VrHFUsCG0yuv56JXIiPvOy6IkQMNo02vyksJZhwWfod7Xa5_OvDpMvBdma8ZyZSXuuE4-gr0.mp4",
+            "bytes": 1473641,
+            "source_seconds": 5.36,
+            "size": [
+              540,
+              960
+            ]
+          },
+          {
+            "path": "assets/video/video-2.mp4",
+            "source": "SaveClip.App_AQMaLX9mB02ZqydabFUIvQUyD6nSwmOxVw-Sj7h_RvupGvCgAJ-aEVHIm05b0YN7HoX6LzR_BgcxUNVM2bQnbTbNZd3JWlPJsNwYl4M.mp4",
+            "bytes": 1586114,
+            "source_seconds": 5.36,
+            "size": [
+              540,
+              960
+            ]
+          },
+          {
+            "path": "assets/video/video-3.mp4",
+            "source": "SaveClip.App_AQNK9d0me0ijFJF4m-Zlxu5XnI-g1N7f7icWkH3LkRBNqGHZFk2m-aUCLJ6tSHNufcpp9anSxzb2Iu3KHWPtFd1oN6P4ZmpdOHAJvgM.mp4",
+            "bytes": 2518812,
+            "source_seconds": 8.73,
+            "size": [
+              540,
+              960
+            ]
+          },
+          {
+            "path": "assets/video/video-4.mp4",
+            "source": "SaveClip.App_AQNKZv3BqjDd0Sgk7WnoRbvYJsZfaBrVSbNdhGsVsP71J-sg8FTMFidHK7-bj7gEDGgRbMLqMSdCAEx0fmWORNWbvAvrVCaVgxoeMjE.mp4",
+            "bytes": 2863834,
+            "source_seconds": 9.4,
+            "size": [
+              540,
+              960
+            ]
+          },
+          {
+            "path": "assets/video/video-5.mp4",
+            "source": "SaveClip.App_AQOaUBqMdIxiXKMieLUiBbmilkmepD539C3LfGB0sE9EpuxNWWZuxyzDla5mfJ1vD_p5HPzBKtEvAqX0bcD0iFSDA1tIAxdXw-EEvkc.mp4",
+            "bytes": 1997727,
+            "source_seconds": 9.91,
+            "size": [
+              540,
+              960
+            ]
+          },
+          {
+            "path": "assets/video/video-6.mp4",
+            "source": "SaveClip.App_AQNjhJrpYWQIrBjcLzz3Asmx_uRSDW13ILZkS0EPF-xlgMt6lUMv2ggvNYoUddVyq0YY5qX7626RQevU12SmafQuE3NnydB_FTCEpNQ.mp4",
+            "bytes": 2872533,
+            "source_seconds": 10.77,
+            "size": [
+              540,
+              960
+            ]
+          }
+        ]
+      },
+      "fonts": {
+        "source": "../poltinkin-workshop/assets/fonts",
+        "family": "Onest",
+        "license": "OFL.txt",
+        "files": [
+          {
+            "path": "assets/fonts/onest-0.ttf",
+            "bytes": 90296
+          },
+          {
+            "path": "assets/fonts/onest-1.ttf",
+            "bytes": 90544
+          },
+          {
+            "path": "assets/fonts/onest-2.ttf",
+            "bytes": 90568
+          },
+          {
+            "path": "assets/fonts/onest-3.ttf",
+            "bytes": 90516
+          },
+          {
+            "path": "assets/fonts/onest.css",
+            "bytes": 616
+          },
+          {
+            "path": "assets/fonts/OFL.txt",
+            "bytes": 4384
+          }
+        ]
+      },
+      "detail_crops": [
+        {
+          "path": "assets/images/doll-detail.webp",
+          "source": "assets/images/doll-prices.webp",
+          "crop_px": [
+            170,
+            177,
+            440,
+            394
+          ],
+          "size": [
+            270,
+            217
+          ],
+          "bytes": 19524
+        },
+        {
+          "path": "assets/images/outfit-holiday.webp",
+          "source": "assets/images/outfit-prices.webp",
+          "crop_px": [
+            14,
+            185,
+            224,
+            350
+          ],
+          "size": [
+            210,
+            165
+          ],
+          "bytes": 12120
+        },
+        {
+          "path": "assets/images/outfit-hobby.webp",
+          "source": "assets/images/outfit-prices.webp",
+          "crop_px": [
+            239,
+            185,
+            441,
+            350
+          ],
+          "size": [
+            202,
+            165
+          ],
+          "bytes": 11906
+        },
+        {
+          "path": "assets/images/outfit-fairytale.webp",
+          "source": "assets/images/outfit-prices.webp",
+          "crop_px": [
+            17,
+            383,
+            226,
+            572
+          ],
+          "size": [
+            209,
+            189
+          ],
+          "bytes": 13788
+        },
+        {
+          "path": "assets/images/outfit-personal.webp",
+          "source": "assets/images/outfit-prices.webp",
+          "crop_px": [
+            240,
+            394,
+            441,
+            572
+          ],
+          "size": [
+            201,
+            178
+          ],
+          "bytes": 12794
+        }
+      ],
+      "originals": "Existing full supplied WebP files kept unchanged"
+    }
+  ]
+}

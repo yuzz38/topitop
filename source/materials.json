@@ -1,0 +1,134 @@
+{
+  "images": [
+    {
+      "name": "logo",
+      "source": "codex-clipboard-c25c062e-4cb8-42b7-935c-b9f9918f4061.png",
+      "size": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "name": "doll-prices",
+      "source": "codex-clipboard-791f0ad0-6d8c-49b1-ab1a-a2db0a8ada33.png",
+      "size": [
+        454,
+        804
+      ]
+    },
+    {
+      "name": "outfit-prices",
+      "source": "codex-clipboard-f53955fa-0c19-4562-a767-3a0ed332bae8.png",
+      "size": [
+        453,
+        795
+      ]
+    },
+    {
+      "name": "outfit-ideas",
+      "source": "codex-clipboard-8fc6e715-5de6-44f7-b099-ce95b4ab7f88.png",
+      "size": [
+        450,
+        811
+      ]
+    },
+    {
+      "name": "coloring-prices",
+      "source": "codex-clipboard-8ceddc13-005e-45ba-9534-853c088b6cf3.png",
+      "size": [
+        447,
+        791
+      ]
+    },
+    {
+      "name": "coloring-cover",
+      "source": "codex-clipboard-13c7ccf0-af25-478d-bfad-dd204cc371cd.png",
+      "size": [
+        1122,
+        1397
+      ]
+    },
+    {
+      "name": "coloring-process",
+      "source": "codex-clipboard-4a316509-b1cc-48dd-8f8c-b6ba42f6cf21.png",
+      "size": [
+        1122,
+        1397
+      ]
+    },
+    {
+      "name": "coloring-themes",
+      "source": "codex-clipboard-31fc8636-acae-4137-9c19-17eabd6953d3.png",
+      "size": [
+        1122,
+        1397
+      ]
+    },
+    {
+      "name": "coloring-gift",
+      "source": "codex-clipboard-5e4e7a4b-a3f9-4529-8443-e64f2b1cb6e8.png",
+      "size": [
+        1122,
+        1397
+      ]
+    },
+    {
+      "name": "coloring-real",
+      "source": "SaveClip.App_887730820_1095450716452144_8458532148904513400_n.jpg",
+      "size": [
+        1012,
+        1800
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "index": 1,
+      "source": "SaveClip.App_AQPlfevUx6S41jhQ-GANKM4FnTsVGi5VrHFUsCG0yuv56JXIiPvOy6IkQMNo02vyksJZhwWfod7Xa5_OvDpMvBdma8ZyZSXuuE4-gr0.mp4",
+      "seconds": 5.36,
+      "width": 720,
+      "height": 1280,
+      "bytes": 1785820
+    },
+    {
+      "index": 2,
+      "source": "SaveClip.App_AQMaLX9mB02ZqydabFUIvQUyD6nSwmOxVw-Sj7h_RvupGvCgAJ-aEVHIm05b0YN7HoX6LzR_BgcxUNVM2bQnbTbNZd3JWlPJsNwYl4M.mp4",
+      "seconds": 5.36,
+      "width": 720,
+      "height": 1280,
+      "bytes": 1906081
+    },
+    {
+      "index": 3,
+      "source": "SaveClip.App_AQNK9d0me0ijFJF4m-Zlxu5XnI-g1N7f7icWkH3LkRBNqGHZFk2m-aUCLJ6tSHNufcpp9anSxzb2Iu3KHWPtFd1oN6P4ZmpdOHAJvgM.mp4",
+      "seconds": 8.73,
+      "width": 720,
+      "height": 1280,
+      "bytes": 3089228
+    },
+    {
+      "index": 4,
+      "source": "SaveClip.App_AQNKZv3BqjDd0Sgk7WnoRbvYJsZfaBrVSbNdhGsVsP71J-sg8FTMFidHK7-bj7gEDGgRbMLqMSdCAEx0fmWORNWbvAvrVCaVgxoeMjE.mp4",
+      "seconds": 9.4,
+      "width": 720,
+      "height": 1280,
+      "bytes": 3521560
+    },
+    {
+      "index": 5,
+      "source": "SaveClip.App_AQOaUBqMdIxiXKMieLUiBbmilkmepD539C3LfGB0sE9EpuxNWWZuxyzDla5mfJ1vD_p5HPzBKtEvAqX0bcD0iFSDA1tIAxdXw-EEvkc.mp4",
+      "seconds": 9.91,
+      "width": 720,
+      "height": 1280,
+      "bytes": 2409832
+    },
+    {
+      "index": 6,
+      "source": "SaveClip.App_AQNjhJrpYWQIrBjcLzz3Asmx_uRSDW13ILZkS0EPF-xlgMt6lUMv2ggvNYoUddVyq0YY5qX7626RQevU12SmafQuE3NnydB_FTCEpNQ.mp4",
+      "seconds": 10.77,
+      "width": 720,
+      "height": 1280,
+      "bytes": 3673519
+    }
+  ]
+}

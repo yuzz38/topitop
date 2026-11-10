@@ -1,0 +1,181 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://topitop.example/#brand",
+      "name": "ТОПИТОП",
+      "alternateName": "topitop.foto",
+      "url": "https://topitop.example/",
+      "logo": "https://topitop.example/assets/images/logo.webp",
+      "sameAs": [
+        "https://www.instagram.com/topitop.foto/"
+      ],
+      "description": "Куклы на липучках по фото, персональные раскраски и фотокалендари для родных.",
+      "areaServed": "Россия",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Персональные подарки ТОПИТОП",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "price": 1490,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Кукла «Гардероб мини»",
+              "description": "Кукла по фото и 3 листа одежды"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": 1790,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Кукла «Гардероб макси»",
+              "description": "Кукла по фото и 5 листов одежды"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": 2390,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Кукла с домиком",
+              "description": "3 листа одежды и домик"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": 800,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Электронная кукла",
+              "description": "PDF высокого качества, 5 листов одежды, элементы отдельно"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": 200,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Дополнительный лист одежды",
+              "description": "Наряды по идеям и фотографиям"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": 790,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Персональная раскраска А4",
+              "description": "10 страниц и обложка"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": 590,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Персональная раскраска А5",
+              "description": "10 страниц и обложка"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": 390,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Персональная раскраска PDF",
+              "description": "Файл для печати: 10 страниц и обложка"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": 1500,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Фотокалендарь А4",
+              "description": "Персональный календарь с семейными фотографиями"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": 1300,
+            "priceCurrency": "RUB",
+            "url": "https://topitop.example/#order",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Фотокалендарь А5",
+              "description": "Персональный календарь с семейными фотографиями"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://topitop.example/#website",
+      "name": "ТОПИТОП",
+      "url": "https://topitop.example/",
+      "inLanguage": "ru-RU",
+      "publisher": {
+        "@id": "https://topitop.example/#brand"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Как сделать заказ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Напишите в Direct @topitop.foto. Для раскраски можно начать со слова «Раскраска». Пришлите фотографии и пожелания — обсудим вашу идею."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Можно добавить свою одежду или героев?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Наряды создаются по вашим идеям и фотографиям. Для раскраски можно выбрать любимых персонажей, семью, друзей, увлечения и имя ребёнка."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что входит в раскраску?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "10 страниц с раскрасками и обложка. Доступны А4, А5 и электронный PDF. Дополнительная страница — 50 ₽."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Когда будет готов подарок?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Срок изготовления и дату отправки обсудим в переписке. Если подарок нужен к празднику, укажите дату в заявке."
+          }
+        }
+      ]
+    }
+  ]
+}
